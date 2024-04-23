@@ -1,1 +1,2 @@
-const yo = 'yo123123123'
+const yo = '22222'
+const main = 'main'
